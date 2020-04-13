@@ -1,6 +1,10 @@
 # UnityGames
-Games built using Unity 
+### Games built using Unity 
 1. FlappyBird(for Android)
 2. Roll the Ball(PC)
 3. TempleRun(for PC)
 4. Racer(still building)...
+### How to Play
+- Clone the repository
+- For each game in the corresponding directory, run <name_of_game>.exe
+*Happy Gaming!*

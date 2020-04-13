@@ -7,4 +7,5 @@
 ### How to Play
 - Clone the repository
 - For each game in the corresponding directory, run <name_of_game>.exe
+
 *Happy Gaming!*
